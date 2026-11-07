@@ -34,7 +34,15 @@ Tools & Software
 - AutoCAD
 - MATLAB
 
-Areas of Interest
+Currently Learning
+
+- Digital Electronics and Logic Design
+- Verilog HDL and RTL Design
+- Microcontroller Fundamentals
+- Embedded C Programming
+- MATLAB for Engineering Applications
+
+Career Interests
 
 - VLSI Design
 - Embedded Systems
