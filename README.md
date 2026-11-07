@@ -17,8 +17,28 @@ I'm an ECE student interested in exploring and building practical knowledge in:
 
 ## Technical Skills
 
-- **Programming:** C, Python, HTML
-- **Tools:** Git, GitHub, VS Code
+Programming Languages
+
+- C
+- Python
+- HTML
+
+Hardware Description Language
+
+- Verilog
+
+Tools & Software
+
+- Git & GitHub
+- VS Code
+- AutoCAD
+- MATLAB
+
+Areas of Interest
+
+- VLSI Design
+- Embedded Systems
+- Internet of Things (IoT)
 
 ---
 
