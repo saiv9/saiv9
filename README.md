@@ -1,53 +1,41 @@
-# Hi, I'm Sai Teja 👋
+# Hi, I'm Sai Teja
 
-### Electronics and Communication Engineering Student
+### B.Tech ECE Student | Aspiring RTL / FPGA Engineer
 
-I'm an ECE student interested in exploring and building practical knowledge in:
+I am focusing on **VLSI design and RTL development**. I am building my skills in digital logic, Verilog HDL, finite-state machines, and simulation-based verification through practical projects.
 
-- **VLSI Design** – Digital Electronics and Semiconductor Technology
-- **Embedded Systems** – Microcontrollers and Hardware-Software Integration
-- **Internet of Things (IoT)** – Connected Devices and Smart Systems
+## Selected RTL Projects
 
-## Currently Learning
+### 1. [Synchronous FIFO in Verilog](https://github.com/saiv9/synchronous-fifo-verilog)
+A parameterized single-clock FIFO with read/write control, full and empty flags, occupancy tracking, pointer wrap-around, and a self-checking testbench.
 
-- Digital Electronics
-- C Programming
-- Python
-- Fundamentals of VLSI and Embedded Systems
+### 2. [UART Transmitter and Receiver](https://github.com/saiv9/UART-Transmitter-and-Receiver-Verilog)
+A configurable UART TX/RX design with a two-flop input synchronizer, mid-bit sampling, loopback tests, and framing-error detection. The GitHub Actions simulation passes five byte patterns and the framing-error test.
+
+### 3. [SPI Master Controller](https://github.com/saiv9/SPI-Master-Controller-Verilog)
+An SPI Mode 0 master with a configurable clock divider, full-duplex byte transfer, and a behavioural slave model for simulation.
 
 ## Technical Skills
 
-Programming Languages
+**Hardware Description Language**
+- Verilog HDL
 
+**Programming**
 - C
 - Python
-- HTML
 
-Hardware Description Language
-
-- Verilog
-
-Tools & Software
-
-- Git & GitHub
+**Tools**
+- Icarus Verilog
+- Git and GitHub
 - VS Code
-- AutoCAD
 - MATLAB
+- AutoCAD
 
-Currently Learning
+## Currently Learning
 
-- Digital Electronics and Logic Design
-- Verilog HDL and RTL Design
-- Microcontroller Fundamentals
-- Embedded C Programming
-- MATLAB for Engineering Applications
+- RTL design and simulation
+- FSM design and timing
+- Digital system verification
+- FPGA design fundamentals
 
-Career Interests
-
-- VLSI Design
-- Embedded Systems
-- Internet of Things (IoT)
-
----
-
-*Learning the fundamentals. Building practical projects. Improving every day.*
+I am interested in RTL Design and FPGA Design internship opportunities where I can strengthen my digital design and verification skills.
